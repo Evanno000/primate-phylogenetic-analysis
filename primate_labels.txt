@@ -1,0 +1,10 @@
+DATASET_TEXT
+SEPARATOR TAB
+DATASET_LABEL	Primate names
+COLOR	#000000
+DATA
+NP_001157900.1	Rhesus macaque	-1	#000000	normal	1	0
+XP_054296805.1	Orangutan	-1	#000000	normal	1	0
+sp|P02024.2|HBB_GORGO	Gorilla	-1	#000000	normal	1	0
+sp|P68871.2|HBB_HUMAN	Human	-1	#000000	normal	1	0
+XP_508242.1	Chimpanzee	-1	#000000	normal	1	0
